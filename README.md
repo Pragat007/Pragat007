@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragat007&label=Profile%20views&color=0e75b6&style=flat" alt="pragat007" /> </p>
 
-- 🔭 I’m currently working on **a proof-of-concept AI application for a fashion store.**
-
 - 🌱 I’m always learning **new tools and technologies in AI and data visualization.**
 
 - 💬 Ask me about **ML, DL, AI**
