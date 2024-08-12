@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **pragatgadilohar16@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UOcrJn-8je25U5fKzA0ASLaCPdE1Ixda/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VN_eR47GMjp1B0qxtKZ19RvMIkXv4s-B/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
