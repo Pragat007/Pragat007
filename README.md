@@ -74,6 +74,14 @@
 ### [IPL Information Analysis Dashboard](https://public.tableau.com/app/profile/pragat.gadilohar2706/viz/IPLInformationAnalysis/Dashboard1)
 - Created an interactive Tableau dashboard for IPL analysis.
 
+### [LLM-Powered Email Classification and Response System for Fashion Retail](https://github.com/Pragat007/LLM-Powered_Email_Classification_and_Response_System_for_Fashion_Retail)
+- Developed a proof-of-concept application to automate email processing for a fashion store using advanced LLM capabilities.
+
+**Project Highlights:**
+- **Automated Email Processing:** Efficiently classifies customer inquiries and order requests.
+- **Accurate Order Management:** Real-time stock checks ensure orders are processed correctly.
+- **Intelligent Customer Interaction:** Provides tailored responses to improve customer experience.
+- **Scalability:** Capable of handling large product catalogs without compromising performance.
 
 ## 📚 Publications
 
