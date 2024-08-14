@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pragat Gadilohar</h1>
-<h3 align="center">I'm an AI enthusiast with a background in Artificial Intelligence. I recently completed my MTech in Artificial Intelligence at Maulana Azad National Institute of Technology with a CGPA of 8.83. My passion lies in Machine Learning, Deep Learning, and Data Science, where I continuously explore new challenges and technologies.</h3>
+<h3 align="center">I'm an AI enthusiast with a background in Artificial Intelligence. I recently completed my MTech in Artificial Intelligence at Maulana Azad National Institute of Technology with a CGPA of 8.88. My passion lies in Machine Learning, Deep Learning, and Data Science, where I continuously explore new challenges and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragat007&label=Profile%20views&color=0e75b6&style=flat" alt="pragat007" /> </p>
 
