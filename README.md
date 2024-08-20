@@ -75,11 +75,23 @@
 ### [LLM-Powered Email Classification and Response System for Fashion Retail](https://github.com/Pragat007/LLM-Powered_Email_Classification_and_Response_System_for_Fashion_Retail)
 - Developed a proof-of-concept application to automate email processing for a fashion store using advanced LLM capabilities.
 
-**Project Highlights:**
-- **Automated Email Processing:** Efficiently classifies customer inquiries and order requests.
-- **Accurate Order Management:** Real-time stock checks ensure orders are processed correctly.
-- **Intelligent Customer Interaction:** Provides tailored responses to improve customer experience.
-- **Scalability:** Capable of handling large product catalogs without compromising performance.
+  **Project Highlights:**
+  - **Automated Email Processing:** Efficiently classifies customer inquiries and order requests.
+  - **Accurate Order Management:** Real-time stock checks ensure orders are processed correctly.
+  - **Intelligent Customer Interaction:** Provides tailored responses to improve customer experience.
+  - **Scalability:** Capable of handling large product catalogs without compromising performance.
+
+### [Analysis on Movie Reviews Dataset](https://github.com/Pragat007/Movie-Reviews-Sentiment-Analysis)
+
+- Conducted comprehensive preprocessing on the NLTK Movie Reviews dataset, including lemmatization, stopword removal, and punctuation filtering, to prepare the text corpus for sentiment analysis.
+
+   **Project Highlights**
+  
+  - **Feature Extraction:** Utilized word frequency and probability distributions to extract meaningful features for classification.
+  - **Model Training:** Trained and evaluated multiple classifiers, including Naive Bayes, SVC, and Random Forest, for sentiment prediction.
+  - **High Accuracy:** Achieved an accuracy of 85.8% with SVC, 79% with Naive Bayes, and 79% with Random Forest on the test dataset.
+  - **Effective Sentiment Prediction:** Demonstrated strong sentiment analysis capabilities across different models.
+
 
 ## 📚 Publications
 
