@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **pragatgadilohar16@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VN_eR47GMjp1B0qxtKZ19RvMIkXv4s-B/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1E8zgNkZinwsMz9JViWt3V-_lM0b7sJRa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
