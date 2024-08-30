@@ -60,7 +60,7 @@
 
 ## 💼 Experience
 
-### Intel (Hyderabad) - Graduate Intern | July 2023 - May 2024
+### Intel (Hyderabad) - Graduate Intern | [Certificate](https://drive.google.com/file/d/1ln9cRd-1D9OTTOwbgdSD8J0jmktd8qPz/view?usp=sharing) July 2023 - May 2024
 - Developed and executed the PACE (Parse, Analyze, Configure, Execute) automation framework, significantly cutting manual task time by up to 35 minutes, streamlining operational efficiency and enhancing productivity across projects.
 - Worked on the power-on of an ongoing project, ensuring seamless integration and functionality.
 - Enforced a versatile one source code for XEON-D projects, enabling the adaptation of existing scripts for future projects with minimal modifications. This approach not only streamlines project scalability but also fosters sustainable improvement strategies.
