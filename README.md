@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pragat Gadilohar</h1>
-<h3 align="center">I'm an AI enthusiast with a background in Artificial Intelligence. I recently completed my MTech in Artificial Intelligence at Maulana Azad National Institute of Technology with a CGPA of 8.88. My passion lies in Machine Learning, Deep Learning, and Data Science, where I continuously explore new challenges and technologies.</h3>
+<h3 align="center">I'm an AI enthusiast and currently a PhD scholar in Computer Science and Engineering at IIT Patna. My academic background is rooted in Artificial Intelligence, and I have a strong interest in Machine Learning, Deep Learning, and Data Science. I am passionate about exploring new challenges, conducting research, and working with emerging technologies in the field of AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pragat007&label=Profile%20views&color=0e75b6&style=flat" alt="pragat007" /> </p>
 
@@ -113,8 +113,8 @@ and dedication to excellence
 
 ## 📚 Publications
 
-- **"Utilizing Convolutional Neural Networks for Android Malware Detection via Permission and Opcode Sequences."** Springer ICISPD Conference, December 2023.
-- **"Integrating CNN and XGBoost with Synthetic Samples for Advanced Android Malware Detection."** IEEE ICCCNT Conference, June 2024.
+- **[Utilizing Convolutional Neural Networks for Android Malware Detection via Permission and Opcode Sequences.](https://link.springer.com/chapter/10.1007/978-981-96-9443-3_9)** Springer ICISPD Conference, December 2023.
+- **[Integrating CNN and XGBoost with Synthetic Samples for Advanced Android Malware Detection.](https://ieeexplore.ieee.org/document/10725305)** IEEE ICCCNT Conference, June 2024.
 
 ## 🏆 Certifications
 
